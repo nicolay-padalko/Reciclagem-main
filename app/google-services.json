@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814225414167",
+    "firebase_url": "https://aps-reciclagem-6191b.firebaseio.com",
+    "project_id": "aps-reciclagem-6191b",
+    "storage_bucket": "aps-reciclagem-6191b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814225414167:android:0d49f1e821123400042452",
+        "android_client_info": {
+          "package_name": "com.example.reciclagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814225414167-r2qf3d594hnm0qse7vqp1scp6unecgmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NQ9hUBndEr5jPoED4aysswc8gnUnkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814225414167-r2qf3d594hnm0qse7vqp1scp6unecgmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

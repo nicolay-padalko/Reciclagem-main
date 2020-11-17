@@ -1,0 +1,6 @@
+cartao
+lixo
+metal
+papel
+plastico
+vidro
